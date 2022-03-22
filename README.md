@@ -1,6 +1,6 @@
 # Process-scheduler
 
-A simple module to spawn, kill, retrive \[stdout | stderr\] and control number of maximum running processes, built using EventEmitter.
+A simple nodejs module to spawn, kill, retrieve \[stdout | stderr\] and control number of maximum running processes, built using EventEmitter.
 
 ## Applications
 
