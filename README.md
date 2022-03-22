@@ -12,7 +12,7 @@ The 'Process-scheduler' module could be used as
 
 ## Usage example
 
-```
+```js
 const {createScheduler,events}=require('./process_scheduler')
 
 const newScheduler=createScheduler(maxInstance=3,timeout=5000)
